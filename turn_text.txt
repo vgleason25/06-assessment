@@ -1,0 +1,3 @@
+players = { 'player_num: [0, 1, 2],
+            'player':['Player_1', 'Player_2', 'Player_3'],   
+            'turn_total':[0, 0, 0] }

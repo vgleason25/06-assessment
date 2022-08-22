@@ -1,0 +1,7 @@
+You have made it to the final round! On the board is your last word. 
+You are given the letters R, S, T, L, N, and E. 
+You choose three more consonants and one more vowel. 
+Once you do, if any of your letters are in the word, they will appear. 
+You will have 5 seconds to guess the word to win the grand prize! Let's begin...
+
+
